@@ -1,6 +1,6 @@
-# Commonwealth Record Series system ontology
+# Portfolio Budget Statements ontology
 
-**This is a placeholder - this ontology has not yet been developed**
+***This is a placeholder - this ontology has not yet been developed***
 
 This ontology is an [OWL](https://www.w3.org/OWL/) interpretation of the Portfolio Budget Statements (PBS) that are delivered online in their document form at <https://www.budget.gov.au> and as data at <https://www.data.gov.au/dataset/ds-dga-2fe0ab1a-3161-477a-9175-5c829d80afab/details?q=Budget%20statements>.
 
